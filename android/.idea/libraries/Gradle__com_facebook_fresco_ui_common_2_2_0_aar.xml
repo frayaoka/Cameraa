@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.fresco:ui-common:2.2.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/ui-common-2.2.0.aar/24ab3186135f944adde16246ded5d8ac/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/ui-common-2.2.0.aar/24ab3186135f944adde16246ded5d8ac/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/ui-common-2.2.0.aar/24ab3186135f944adde16246ded5d8ac/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.fresco/ui-common/2.2.0/65140eecf9fd28dad890a467cbf6830f037d86f2/ui-common-2.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

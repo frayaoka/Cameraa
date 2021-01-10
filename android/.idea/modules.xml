@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CameraApp.iml" filepath="$PROJECT_DIR$/.idea/modules/CameraApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CameraApp.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CameraApp.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1454894686/CameraApp.react-native-camera.iml" filepath="$PROJECT_DIR$/.idea/modules/1454894686/CameraApp.react-native-camera.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1743019135/CameraApp.react-native-community_cameraroll.iml" filepath="$PROJECT_DIR$/.idea/modules/1743019135/CameraApp.react-native-community_cameraroll.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/702876842/CameraApp.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/702876842/CameraApp.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-736017555/CameraApp.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-736017555/CameraApp.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-940037489/CameraApp.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/-940037489/CameraApp.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2008102038/CameraApp.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/2008102038/CameraApp.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-617400274/CameraApp.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-617400274/CameraApp.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2075215989/CameraApp.react-native-svg.iml" filepath="$PROJECT_DIR$/.idea/modules/-2075215989/CameraApp.react-native-svg.iml" />
+    </modules>
+  </component>
+</project>

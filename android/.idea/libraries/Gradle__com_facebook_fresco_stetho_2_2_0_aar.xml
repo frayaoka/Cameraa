@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.fresco:stetho:2.2.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/stetho-2.2.0.aar/977b6607b48081a5401f4a2a5c7ae365/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/stetho-2.2.0.aar/977b6607b48081a5401f4a2a5c7ae365/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/stetho-2.2.0.aar/977b6607b48081a5401f4a2a5c7ae365/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.fresco/stetho/2.2.0/611baeaa1e7403d0994031cef22e65eca80b052e/stetho-2.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
